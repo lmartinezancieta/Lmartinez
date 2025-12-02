@@ -1,15 +1,16 @@
 # Portafolio Profesional – Luis Frank Martínez Ancieta
 
-Especialista en Estrategia, BPM, Gestión de Proyectos, Automatización, Customer Experience y Power BI.  
+Especialista en Gestión Estratégica, Business Analysis, Processs Mining, BPM, Gestión de Proyectos, Automatización, Customer Experience y Power BI.  
 Gerente General en BESSER Consultoría.
 
 Este repositorio reúne proyectos simulados, plantillas y casos de estudio que representan mi experiencia en:
 
-## 🏛️ 1. BPM y Gestión por Procesos
+## 🏛️ 1. Business & process
 - Modelado BPMN
 - Diagnósticos de procesos
 - Diseño TO-BE y mejora continua
 - Documentación profesional de procesos
+- Análisis de minería de data en procesos.
 
 ## 🎨 2. Diseño de Servicios (Service Design)
 - Service Blueprint
@@ -31,6 +32,8 @@ Este repositorio reúne proyectos simulados, plantillas y casos de estudio que r
 - Plantillas BPMN 2.0
 - Formatos de documentación
 - Frameworks y metodologías BESSER
+- Encuestas de satisfacción de clientes.
+- NPS.
 
 ---
 
